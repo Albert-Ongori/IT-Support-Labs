@@ -1,2 +1,2 @@
-# IT-Support-Labs
-This is my home lab for IT Support studies
+This repository contains hands-on labs demonstrating practical IT support skills.
+
