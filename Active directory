@@ -1,0 +1,15 @@
+I have have today deployed the following roles in windws swerver:
+
+Active Directory Domain Services (AD DS)
+
+DNS Server
+
+DHCP Server
+
+File and Storage Services
+
+IIS (Web Server)
+
+Remote Access
+
+Promoted the server to a Domain Controller and configured core infrastructure services for a domain-based lab environment.
